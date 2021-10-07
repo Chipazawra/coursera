@@ -10,7 +10,7 @@
             "request": "launch",
             "mode": "debug",
             "program": "${file}",
-            "args": ["testdata", "-f"]
+            "args": ["testdata/", "-f"]
         },
         {
             "name": "Attach to Process",
